@@ -19,7 +19,7 @@ const student2: Student = {
 
 const studentsList: Array<Student> = [student1, student2];
 
-const body = createElement('body');
+
 const table = document.createElement('table');
 const thead = document.createElement('thead');
 const tbody = document.createElement('tbody');
@@ -44,5 +44,6 @@ studentsList.forEach((student) => {
     tbody.appendChild(tr);
 });
 table.appendChild(tbody);
-body.appendChild(table);
-document.head.appendChild(body);
+document.body.appendChild(table);
+
+
