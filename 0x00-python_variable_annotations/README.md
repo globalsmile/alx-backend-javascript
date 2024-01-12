@@ -1,12 +1,12 @@
 # 0x00. Python - Variable Annotations
 :open_file_folder: Specializations - Web Stack programming ― Back-end  
 :bust_in_silhouette: by Emmanuel Turlay, Staff Software Engineer at Cruise  
-:copyright: **[Holberton School](https://www.holbertonschool.com/)**  
+:copyright: **[Holberton School](https://www.alxafrica.com/)**  
 :bookmark: duck typing | python | type annotations | variable annotations
 
 ## Resources
 ### For this project, students are expected to look at this concept:
-* [Advanced Python](https://intranet.hbtn.io/concepts/136)
+* [Advanced Python](https://intranet.alxswe.com/concepts/554)
 ### Read or watch:
 * [Python 3 typing documentation](https://docs.python.org/3/library/typing.html)
 * [MyPy cheat sheet](https://mypy.readthedocs.io/en/latest/cheat_sheet_py3.html)
@@ -39,5 +39,5 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [x] 12. Type Checking
 
 ## Software engineer
-Javier Andrés Garzón Patarroyo  
-:octocat: [GitHub](https://github.com/javierandresgp/)
+Mohammed Badmus
+:octocat: [GitHub](https://github.com/globalsmile/)
