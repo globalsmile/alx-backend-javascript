@@ -1,7 +1,7 @@
 # 0x12. NodeJS Basics
 :open_file_folder: Specializations - Web Stack programming ― Back-end  
 :bust_in_silhouette: by Johann Kerbrat, Engineering Manager at Uber Works  
-:copyright: **[Holberton School](https://www.holbertonschool.com/)**  
+:copyright: **[ALX Africa](https://www.alxafrica.com/)**  
 :bookmark: asynchronous file read | express | http server | javascript | node | process | synchronous file read
 
 ## Resources
@@ -41,4 +41,4 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [ ] 8. Organize a complex HTTP server using Express
 
 ## Software engineer
-[Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)
+[Mohammed Badmus](https://www.github.com/globalsmile)
