@@ -1,7 +1,7 @@
 # 0x13. Unittests in JS
 :open_file_folder: Specializations - Web Stack programming ― Back-end  
 :bust_in_silhouette: by Johann Kerbrat, Engineering Manager at Uber Works  
-:copyright: **[Holberton School](https://www.holbertonschool.com/)**  
+:copyright: **[ALX Africa](https://www.alxafrica.com/)**  
 :bookmark: chai | integration tests | javascript | mocha | sinon | spies | stubs | test suites | unit tests
 
 ## Resources
@@ -42,4 +42,4 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [ ] 10. Deep equality & Post integration testing
 
 ## Software engineer
-[Javier Andrés GP](https://www.javierandresgp.com)
+[Mohammed Badmus](https://www.github.com/globalsmile)
